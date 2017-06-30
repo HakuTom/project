@@ -1,1 +1,1 @@
-puts 'This is git'
+puts 'This is git v2'
